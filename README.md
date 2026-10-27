@@ -107,15 +107,3 @@ Para documentar los resultados de forma verificable, se recomienda agregar las c
 
 La exposición sobre árboles binarios se planteó como una estrategia de aprendizaje para estudiantes de primer semestre, combinando explicación teórica, ejemplos cotidianos, material visual y una actividad interactiva en Kahoot. Incluir evidencias fotográficas, capturas del cuestionario y registros de resultados permitirá respaldar mejor la actividad y valorar el aprendizaje alcanzado.
 
-## 10. Anexos y evidencias
-
-- **Anexo 1.** Evidencia fotográfica de la exposición
-  - Descripción: 
-- **Anexo 2.** Capturas de la guía y actividades entregadas
-  - Descripción: 
-- **Anexo 3.** Capturas de preguntas y resultados del Kahoot
-  - Descripción: 
-- **Anexo 4.** Evidencia del video de la actividad
-  - Descripción: 
-- **Anexo 5.** Evidencias adicionales
-  - Descripción: 
